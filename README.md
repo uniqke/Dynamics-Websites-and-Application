@@ -11,7 +11,7 @@ Lecturer: Mr. Doron Williams
 Group Names:
 Name: Alcardo Terlonge  
 ID#:1400151544
-Contribe to: Question # 1
+Contribute to: Question # 1
 
 Name: Rashidi Brown
 ID#:1700245883
