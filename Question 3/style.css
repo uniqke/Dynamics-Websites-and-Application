@@ -1,0 +1,7 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+table.dataTable thead th {
+  white-space: nowrap;
+}
